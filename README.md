@@ -15,7 +15,7 @@ EXPLANATION :
       # This with statement creates an instance of the Listener class and associates the write_to_file function with the on_press event.
       # The with statement ensures proper resource management by automatically closing the listener when the code exits the with block, even if an error occurs.
       # The l.join() method starts the listening process, initiating an infinite loop that continuously waits for key presses and executes the write_to_file function for each detected key.
-HOW THE CODE WORKS:
+### HOW THE CODE WORKS:
   ##
   # Import: The code imports the necessary Listener class from the pynput.keyboard library.
   # Function Definition: The write_to_file function is defined to handle key press events and write them to the log file.
