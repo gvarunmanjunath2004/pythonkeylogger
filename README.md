@@ -1,4 +1,4 @@
-SIMPLE PYTHON KEYLOGGER
+SIMPLE PYTHON KEYLOGGER :::
 EXPLANATION :
  1.pynput.keyboard:  
        ### This external library provides the necessary functionalities for interacting with the keyboard. It allows the program to detect and respond to key press events.
